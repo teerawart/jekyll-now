@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: teerawat jomsri
 permalink: /resume/
 ---
 
